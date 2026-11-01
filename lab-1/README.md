@@ -7,7 +7,7 @@ Act as my VS Code coding agent. My Backend Development Fundamentals Lab 1 projec
 - Student name: V.Venkatshiva
 - Section: CSE-GAI-2c
 - Academic year: 2nd-year B.Tech
-- GitHub repository: https://github.com/venkatshiva7032/Backend-Development-Fundamentals-Lab-1
+- GitHub repository: https://github.com/venkatshiva7032/BACKEND-LABS
 - Live Render URL: https://backend-development-fundamentals-lab-1-ytpl.onrender.com/
 
 ## Instructions
